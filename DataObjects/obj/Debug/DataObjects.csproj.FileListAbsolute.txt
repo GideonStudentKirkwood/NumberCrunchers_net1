@@ -1,0 +1,23 @@
+C:\Users\nh229u21\Desktop\DrawPoker\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\nh229u21\Desktop\DrawPoker\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\nh229u21\Desktop\DrawPoker\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\nh229u21\Desktop\DrawPoker\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\nh229u21\Desktop\DrawPoker\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\.NET 1 _ final project\NumberCrunchers\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\.NET 1 _ final project\NumberCrunchers\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.pdb
+E:\.NET 1 _ final project\.NET 1 _ final project\NumberCrunchers\DataObjects\bin\Debug\DataObjects.dll
+E:\.NET 1 _ final project\.NET 1 _ final project\NumberCrunchers\DataObjects\bin\Debug\DataObjects.pdb
+E:\.NET 1 _ final project\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.csprojAssemblyReference.cache
+E:\.NET 1 _ final project\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+E:\.NET 1 _ final project\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.dll
+E:\.NET 1 _ final project\.NET 1 _ final project\NumberCrunchers\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\NumberCrunchers\NumberCrunchers\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\NumberCrunchers\NumberCrunchers\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\NumberCrunchers\NumberCrunchers\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\NumberCrunchers\NumberCrunchers\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\NumberCrunchers\NumberCrunchers\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\NumberCrunchers\NumberCrunchers\DataObjects\obj\Debug\DataObjects.pdb
